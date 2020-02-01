@@ -1,0 +1,5 @@
+class TileContent
+    type: string (image, text, custom)
+    text: string|null (path or text)
+    path: string|null
+    updater: TileUpdater|null (For custom types an updater will be shown)

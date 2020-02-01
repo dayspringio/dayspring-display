@@ -1,0 +1,4 @@
+class TileUpdater
+    content: string //This will be set by the function
+    updateInterval: int
+    updateFunction: function

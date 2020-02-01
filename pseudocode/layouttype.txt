@@ -1,0 +1,5 @@
+class layout type
+    //Layout will be a grid system of maybe 2x4 where each block can be determined
+    name: string
+    tiles: TileType[]
+    getContent: loop through the tile types and get their content

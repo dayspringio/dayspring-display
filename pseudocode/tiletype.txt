@@ -1,0 +1,4 @@
+class TileType //more of an interface
+    content: TileContent //Function to translate the content to a displayable element
+    size: [3, 1]
+    position: [0, 0]
