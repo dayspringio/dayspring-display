@@ -1,7 +1,0 @@
-class display
-    layout: LayoutType //This will determine what size does what
-    text: string //text to display
-    image: string //src to image support animated
-    display: function() gets the content of the layout type and displays it
-
-
